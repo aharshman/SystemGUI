@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Command HUD – System Monitor (Python GUI)
 
 Command HUD is a lightweight desktop system monitor built with Python. It provides a real-time view of system performance through a clean, minimal interface using customtkinter and psutil.
@@ -117,5 +116,3 @@ Alexander Harshman
 ## Contributing
 
 Contributions are welcome. Feel free to open issues or submit pull requests if you have ideas for improvements.
-
-EOF
